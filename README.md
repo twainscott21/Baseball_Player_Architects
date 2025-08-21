@@ -18,3 +18,18 @@ Wainscott_Tim_MTH4224_Project_2_Report.pdf : Final report of the project
 ## Expected Results
 When running the program, the expected graphs you should get should look something like the ones below:
 
+<img width="1475" height="1025" alt="image" src="https://github.com/user-attachments/assets/1562d19b-db16-4773-9904-d0baf039e8bd" />
+
+<img width="1976" height="1025" alt="image" src="https://github.com/user-attachments/assets/82c58008-722a-4c1a-ad0e-79c8a1f27cdc" />
+
+<img width="1353" height="941" alt="image" src="https://github.com/user-attachments/assets/daafd55b-1125-4375-b396-f46e96d03e10" />
+
+<img width="1486" height="1498" alt="image" src="https://github.com/user-attachments/assets/cb576ceb-6c20-4efa-a1a1-a894a3ffb1ab" />
+
+<img width="1395" height="590" alt="image" src="https://github.com/user-attachments/assets/8e0b7c6c-10fb-40df-99d1-9dd13c9e328f" />
+
+<img width="1390" height="590" alt="image" src="https://github.com/user-attachments/assets/38889958-899a-4769-9ed9-6ae8fd96992f" />
+
+<img width="1390" height="590" alt="image" src="https://github.com/user-attachments/assets/822f1fc5-6780-4343-8912-310b9768262a" />
+
+
